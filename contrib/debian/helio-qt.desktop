@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Helio Coin
+Comment=Helio_Coin P2P Cryptocurrency
+Comment[fr]=Helio_Coin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Helio_Coin, eşten eşe kriptografik sanal para birimi
+Exec=helio-qt %u
+Terminal=false
+Type=Application
+Icon=helio128
+MimeType=x-scheme-handler/helio;
+Categories=Office;Finance;
+StartupWMClass=Helio-qt

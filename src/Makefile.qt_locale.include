@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/helio_de.ts \
+  qt/locale/helio_en.ts \
+  qt/locale/helio_en_US.ts \
+  qt/locale/helio_es.ts \
+  qt/locale/helio_es_ES.ts \
+  qt/locale/helio_fr_FR.ts \
+  qt/locale/helio_hr_HR.ts \
+  qt/locale/helio_it.ts \
+  qt/locale/helio_ko_KR.ts \
+  qt/locale/helio_nl.ts \
+  qt/locale/helio_pl.ts \
+  qt/locale/helio_ru.ts \
+  qt/locale/helio_tr.ts \
+  qt/locale/helio_zh_CN.ts

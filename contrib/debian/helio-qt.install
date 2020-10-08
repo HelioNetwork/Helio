@@ -1,0 +1,6 @@
+usr/local/bin/helio-qt usr/bin
+share/pixmaps/helio32.xpm usr/share/pixmaps
+share/pixmaps/helio16.xpm usr/share/pixmaps
+share/pixmaps/helio128.png usr/share/pixmaps
+debian/helio-qt.desktop usr/share/applications
+debian/helio-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,3 @@
+usr/local/bin/heliod usr/bin
+usr/local/bin/helio-cli usr/bin
+debian/examples/helio.conf etc/helio

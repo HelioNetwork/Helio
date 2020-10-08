@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Helio Coin
+Comment=Helio Coin QT main network
+GenericName=Helio_Coin Digital Currency QT client main network
+Exec=helio-core.qt %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/helio.png
+MimeType=x-scheme-handler/helio;
+Categories=X-Office;X-Finance;
+Keywords=internet;helio;zhlo;hlo;core;wallet;qt;main;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0
